@@ -1,3 +1,33 @@
-django
+django>=4.2,<5.0
 djangorestframework
+djangorestframework-simplejwt
 django-cors-headers
+channels
+daphne
+celery
+redis
+django-filter
+psycopg2-binary
+Pillow
+requests
+xgboost
+scikit-learn
+pandas
+numpy
+shap
+faiss-cpu
+sentence-transformers
+matplotlib
+# AI/ML Engines
+mistralai>=0.0.12
+FlagEmbedding>=1.2.0
+transformers>=4.30.0
+torch>=2.0.0
+langdetect>=1.0.9
+# IndicTrans2 and language support
+indic-nlp-library>=0.92
+# PDF processing
+PyPDF2>=3.0.0
+pdfplumber>=0.9.0
+# Additional utilities
+python-dotenv>=1.0.0
